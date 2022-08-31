@@ -253,7 +253,7 @@ async def 메모(ctx,order="d",*string: str):
 
 
 
-bot.run("Njk0Mzk0MTg2NjEwNTA3ODE3.XvDBmA.vsWbn_bCNZKB71gwrSEPBZKfy3s")
+bot.run("token")
 
 #서버의 이름은 ctx.guild
 #채널의 이름은 ctx.channel
