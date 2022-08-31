@@ -58,4 +58,4 @@ async def on_message(message):
                 wordhist.append(message.content)
             
 
-client.run("Njk0Mzk0MTg2NjEwNTA3ODE3.XvDBmA.vsWbn_bCNZKB71gwrSEPBZKfy3s")
+client.run("token")
